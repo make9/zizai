@@ -1,5 +1,5 @@
 {
-"apkDownloadUrl": "https://raw.githubusercontent.com/techGay/v9porn/master/apk/app-v1.0.6.apk",
+"apkDownloadUrl": "http://blog.17fei.xyz/xz/sp/1.0.6.apk",
 "updateMessage": "1. 简单修复不是从主界面进入9*pron播放界面崩溃的bug
 ",
 "versionCode": 7,
