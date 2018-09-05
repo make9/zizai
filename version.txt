@@ -2,6 +2,6 @@
 "apkDownloadUrl": "http://blog.17fei.xyz/xz/sp/app-v1.0.6.apk",
 "updateMessage": "1. 简单修复不是从主界面进入动作视频播放界面崩溃的bug。（自在）
 ",
-"versionCode": 9,
-"versionName": "1.0.8"
+"versionCode": 8,
+"versionName": "1.0.7"
 }
