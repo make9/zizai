@@ -1,5 +1,5 @@
 {
-"apkDownloadUrl": "http://blog.17fei.xyz/xz/sp/app-v1.0.6.apk",
+"apkDownloadUrl": "https://github.com/make9/zizai/blob/master/app-v1.0.7.apk",
 "updateMessage": "本版本代码改动较大，可能隐藏有较多的bug\n
 
                   1. 修复朱*力视频无法解析问题\n
