@@ -8,6 +8,6 @@
                   4. 修复动作登陆账号后可能会有20次观看次数限制问题\n
                   5. 其他改动调整及bug修复
 ",
-"versionCode": 9,
+"versionCode": 7,
 "versionName": "1.0.7"
 }
