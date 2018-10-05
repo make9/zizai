@@ -1,8 +1,8 @@
 {
   "noticeMessage": "
-    此程序只是我用来学习参考用的，请勿外传或商业使用。2018.8.27自在
+    此程序只是我用来学习参考用的，请勿外传或商业使用。2018.10.05自在
   ",
-  "noticeTime": "2018年8月28日",
+  "noticeTime": "2018年10月05日",
    "noticeTitle": "公告",
    "noticeer": "Adimn",
    "versionCode": 2
