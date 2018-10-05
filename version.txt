@@ -4,6 +4,6 @@
 
                 修复好几个东西
 ",
-"versionCode": 9,
+"versionCode": 7,
 "versionName": "1.0.8"
 }
