@@ -4,6 +4,6 @@
 
                 修复好几个东西---自在2018.10.06
 ",
-"versionCode": 10,
+"versionCode": 9,
 "versionName": "1.0.8"
 }
