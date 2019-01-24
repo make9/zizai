@@ -4,6 +4,6 @@
 
                 修复好几个东西---自在2019.01.24
 ",
-"versionCode": 11,
+"versionCode": 10,
 "versionName": "1.0.9"
 }
